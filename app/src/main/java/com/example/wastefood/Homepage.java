@@ -15,6 +15,8 @@ public class Homepage extends DrawerBaseActivity {
         activityHomepageBinding=ActivityHomepageBinding.inflate(getLayoutInflater());
         setContentView(activityHomepageBinding.getRoot());
         allocatedActivityTitle("WasteFood");
+        Intent intent=new Intent(this,Activity_Donor_2.class);
+        startActivity(intent);
 
 
 

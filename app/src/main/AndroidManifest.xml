@@ -15,6 +15,13 @@
         android:theme="@style/Theme.WasteFood"
         tools:targetApi="31">
         <activity
+            android:name=".Activity_Donor_2"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".DrawerDonarBaseActivity"
             android:exported="false">
             <meta-data
