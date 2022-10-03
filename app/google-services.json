@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991636324042",
+    "project_id": "wastefood-4f5fd",
+    "storage_bucket": "wastefood-4f5fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991636324042:android:e22424f377ab96ff797e33",
+        "android_client_info": {
+          "package_name": "com.example.wastefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991636324042-1htqofi8luo17b6e15em3e5n52mf4v5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwrxeB0DplX9kNPRbopQhie39giGVXzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991636324042-1htqofi8luo17b6e15em3e5n52mf4v5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

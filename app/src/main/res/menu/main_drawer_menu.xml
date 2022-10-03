@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/chat"
+            android:icon="@drawable/info"
+            android:title="About"/>
+
+        <item android:id="@+id/contactuS"
+            android:icon="@drawable/contactus"
+            android:title="Contact Us"/>
+
+
+        <item android:id="@+id/loGIn"
+            android:icon="@drawable/login"
+            android:title="Log In">
+        </item>
+
+        <item android:id="@+id/ragister"
+            android:icon="@drawable/register"
+            android:title="Register">
+        </item>
+
+
+
+    </group>
+
+
+</menu>
